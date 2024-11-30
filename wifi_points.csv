@@ -1,0 +1,170 @@
+WKT,nome,descrição,modelo,Status
+"POINT (-38.9729493 -12.2011369)",AP - MA5,Ponto de Acesso
+,Indoor,Em operação
+"POINT (-38.9731776 -12.2012005)",AP - Anexo MA5,Ponto de Acesso
+,Indoor,Em operação
+"POINT (-38.9739095 -12.2014414)",AP - MA6,Ponto de Acesso
+,Indoor,Em operação
+"POINT (-38.9741402 -12.2015233)",AP - Auditório4,Ponto de Acesso,Indoor,Em operação
+"POINT (-38.9748335 -12.2017596)",AP - MA7,Ponto de Acesso
+,Indoor,Em operação
+"POINT (-38.9750682 -12.2018425)",AP - Auditório 5
+,Ponto de Acesso,Indoor,Em operação
+
+"POINT (-38.9720759 -12.2024032)",AP - BCJC,Ponto de Acesso
+,Outdoor,Em operação
+"POINT (-38.96933 -12.2020886)",Pavilhão de Salas de Aula,Ponto de Acesso
+,Outdoor,Em operação
+"POINT (-38.9730626 -12.202533)",AP - AEI,Ponto de Acesso
+,Indoor,Em operação
+"POINT (-38.9733929 -12.200222)",AP - PAT5,Ponto de Acesso,Outdoor,Em operação
+"POINT (-38.9714791 -12.1995875)",AP - PAT3,Ponto de Acesso,Outdoor,Em operação
+"POINT (-38.9705001 -12.1992992)",AP - PAT2,Ponto de Acesso,Outdoor,Em operação
+"POINT (-38.9695519 -12.1990003)",AP - PAT1,Ponto de Acesso,Outdoor,Em operação
+"POINT (-38.9719833 -12.2008328)",AP - MA4,Ponto de Acesso,Indoor,Em operação
+
+"POINT (-38.9710258 -12.2005366)",AP - MA3,Ponto de Acesso,Indoor,Em operação
+
+"POINT (-38.9712377 -12.2005812)",AP - Anexo MA3,Ponto de Acesso,Indoor,Em operação
+
+"POINT (-38.9700615 -12.2002456)",AP - MA2,Ponto de Acesso,Indoor,Em operação
+
+"POINT (-38.9702506 -12.2002823)",AP - Anfiteatro,Ponto de Acesso,Indoor,Em operação
+"POINT (-38.9691013 -12.1999415)",AP - MA1,Ponto de Acesso,Indoor,Em operação
+
+"POINT (-38.9693105 -12.1999978)",AP - Auditório1,Ponto de Acesso,Indoor,Em implantação
+"POINT (-38.9684683 -12.2012418)",AP - AudCentral,Ponto de Acesso,Outdoor,Em operação
+
+"POINT (-38.9692019 -12.2016403)",AP - Ouvidoria,Ponto de Acesso,Outdoor,Em operação
+
+"POINT (-38.969631 -12.2018487)",AP - CAU2,Ponto de Acesso,Indoor,Em operação
+"POINT (-38.9684576 -12.1981194)",AP - LABIO 01,Ponto de Acesso,Outdoor,Em implantação
+"POINT (-38.9716816 -12.1984236)",AP - LTEC2,Ponto de Acesso,Indoor,Em operação
+"POINT (-38.9718371 -12.1980251)",AP - LTEC3,Ponto de Acesso,Indoor,Em operação
+"POINT (-38.9706409 -12.1987578)",AP - Laboratório de Pós Educação e Letras,Ponto de Acesso,Outdoor,Em operação
+"POINT (-38.971357 -12.1989807)",AP - LTEC1,Ponto de Acesso,Indoor,Em operação
+"POINT (-38.9723213 -12.1992913)",AP - LABOFIS,Ponto de Acesso,Indoor,Em operação
+"POINT (-38.9732829 -12.1996177)",AP - LABEXA,Ponto de Acesso,Indoor,Em operação
+"POINT (-38.9737778 -12.1988653)",AP - PPGM,Ponto de Acesso,Indoor,Em operação
+"POINT (-38.9745649 -12.2000464)",AP - CION,Ponto de Acesso,Indoor,Em operação
+"POINT (-38.9749539 -12.2001355)",AP - PGSAUCOL,Ponto de Acesso,Indoor,Em operação
+"POINT (-38.9755185 -12.1999153)",AP - PGHIST,Ponto de Acesso,Indoor,Em operação
+"POINT (-38.9701729 -12.2018736)",AP - CAU1,Ponto de Acesso,Outdoor
+,Em operação
+"POINT (-38.9744242 -12.2005681)",AP - ME6,Ponto de Acesso,outdoor,Em operação
+
+"POINT (-38.9663413 -12.2021961)",AP - RESI1,Ponto de Acesso
+,Indoor,Em operação
+
+"POINT (-38.9666283 -12.2021187)",AP - RESI2,Ponto de Acesso
+,Indoor,Em operação
+
+"POINT (-38.9677535 -12.2028567)",AP - CasaDoIndio,Ponto de Acesso
+,Indoor,Em implantação
+
+"POINT (-38.9722073 -12.2008931)",AP - Auditório3,Ponto de Acesso,Indoor,Em operação
+
+"POINT (-38.972438 -12.1999126)",AP - PAT4,Ponto de Acesso
+,Outdoor,Em operação
+"POINT (-38.9713477 -12.2022223)",AP - Prédio Administração - AlaB - Térreo
+,,,
+"POINT (-38.9707656 -12.2020466)",AP - Prédio Administração - AlaA - Térreo,Ponto de Acesso
+,Indoor,Em operação
+
+"POINT (-38.9708313 -12.2021712)",AP - Prédio Administração - AlaA - 1º andar
+,,,
+"POINT (-38.9712377 -12.2022773)",AP - Prédio Administração - AlaB - 1º andar
+,Ponto de Acesso
+,Indoor,Em operação
+
+"POINT (-38.9710164 -12.2023154)",AP - Prédio Administração - 2° - Gabinete Reitoria
+,Ponto de Acesso
+,Indoor,Em operação
+
+"POINT (-38.9753294 -12.2008591)",AP - PAT7 - 1° andar
+,Ponto de Acesso,Outdoor,Em operação
+"POINT (-38.9696217 -12.1994145)",AP - MP1
+,Ponto de Acesso
+,Indoor,Em operação
+
+"POINT (-38.9706784 -12.1997292)",AP - MP2
+,,,
+"POINT (-38.9715314 -12.2000228)",AP - MP3,Ponto de Acesso,Indoor,Em operação
+"POINT (-38.9724863 -12.2003059)",AP - MP4,,,
+"POINT (-38.9734733 -12.20061)",AP - MP5,Ponto de Acesso
+,Indoor,Em operação
+
+"POINT (-38.9744818 -12.2009141)",AP - MP6,Ponto de Acesso
+,Indoor,Em operação
+
+"POINT (-38.9753938 -12.2012235)",AP - MP7,Ponto de Acesso
+,Indoor,Em operação
+
+"POINT (-38.9704089 -12.1966487)",AP - Parque Esportiv
+,Ponto de Acesso
+,Outdoor,Em operação
+
+"POINT (-38.9699435 -12.2025329)",AP - Garagem,Ponto de Acesso
+,Outdoor,Em operação
+
+"POINT (-38.9748573 -12.2014358)",AP - MT7
+,Ponto de Acesso
+,Indoor,Em operação
+
+"POINT (-38.9680552 -12.1988968)",AP - MZOO,Ponto de Acesso,Indoor,Em operação
+"POINT (-38.9707433 -12.2020064)",AP - Prédio Administração - AlaA - 1º andar02,Ponto de Acesso,Indoor,Em operação
+"POINT (-38.9713978 -12.2021794)",AP - Prédio Administração - AlaB - 1º andar02,Ponto de Acesso,Indoor,Em operação
+"POINT (-38.9689602 -12.2024448)",PARFOR,Ponto de Acesso,indoor,Em operação
+"POINT (-38.9683887 -12.2015289)",AP - AudCentral2
+,Ponto de Acesso
+,Outdoor,Em operação
+
+"POINT (-38.9690821 -12.1996105)",AP-MT1,Ponto de Acesso
+,Indoor,Em operação
+
+"POINT (-38.9700609 -12.1999269)",AP - MT2
+,Ponto de Acesso
+,Indoor,Em operação
+
+"POINT (-38.966077 -12.2010931)",AP - MCS,Ponto de Acesso ,Indoor,Em operação
+"POINT (-38.9739624 -12.2011672)",AP MT6,Ponto de Acesso,Indoor,Em operação
+"POINT (-38.9720064 -12.2005668)",AP - MT4,Ponto de Acesso,Indoor,Em operação
+"POINT (-38.9687769 -12.1982211)",AP - LABIO -  Térreo01,Ponto de Acesso,Indoor,Em operação
+"POINT (-38.9681524 -12.198022)",AP - LABIO - Térreo02,Ponto de Acesso,Indoor,Em operação
+"POINT (-38.968737 -12.1982095)",AP - LABIO - 1° ANDAR01,Ponto de Acesso,Indoor,Em operação
+"POINT (-38.968198 -12.1980345)",AP - LABIO - 1° ANDAR02,Ponto de Acesso,Indoor,Em operação
+"POINT (-38.9684775 -12.1978736)",AP - HERBÁRIO 01,Ponto de Acesso,Indoor,Em operação
+"POINT (-38.968507 -12.1977924)",AP HERBÁRIO 02,Ponto de Acesso,Indoor,Em operação
+"POINT (-38.9683236 -12.1986188)",AP LAB 0,Ponto de Acesso,Outdoor,Em operação
+
+"POINT (-38.9722593 -12.2022318)",AP BCJC 2,Ponto de Acesso,Indoor,Em operação
+"POINT (-38.9709743 -12.1988696)",AP - Laboratório de Letras Térreo 02,Ponto de acesso,Indoor,Em operação
+"POINT (-38.9708938 -12.1988382)",AP - Laboratório de Letras - 1°andar 02,Ponto de acesso,Indoor,Em operação
+"POINT (-38.9703413 -12.1986756)",AP - Laboratório de Letras Terreo 01,Ponto de Acesso,Indoor,Em operação
+"POINT (-38.9702555 -12.1986284)",AP - Laboratório de Letras - 1° andar 01,Ponto de Acesso,Indoor,Em operação
+"POINT (-38.97213 -12.198122)",AP LTEC3 - 02,Ponto de Acesso,Indoor,Em operação
+"POINT (-38.9720817 -12.1982165)",AP LTEC3 - 03,Ponto de Acesso,Indoor,Em operação
+"POINT (-38.9717997 -12.1981316)",AP LTEC3 - 04,Ponto de Acesso,Indoor,Em operação
+"POINT (-38.9739669 -12.1989285)",AP - PPGM - 02,Ponto de Acesso,Indoor,Em operação
+"POINT (-38.9739401 -12.1990229)",AP  PPGM - 03,Ponto de Acesso,Indoor,Em operação
+"POINT (-38.9737416 -12.1989548)",AP PPGM - 04,Ponto de Acesso,indoor,Em operação
+"POINT (-38.96678 -12.1995748)",AP Pórtico,Ponto de Acesso,Indoor,Em operação
+"POINT (-38.966352 -12.2018999)",AP RESI 3,Ponto de Acesso,Indoor,Em operação
+"POINT (-38.9665478 -12.2019602)",AP RESI 4,Ponto de Acesso,Indoor,Em operação
+"POINT (-38.9716358 -12.1990543)",AP LTEC1 02,Ponto de Acesso,Indoor,Em operação
+"POINT (-38.9719684 -12.1991487)",AP LTEC1 - 03,Ponto de Acesso,Indoor,Em operação
+"POINT (-38.9726206 -12.1994003)",AP LABOFIS - 02,Ponto de Acesso,Indoor,Em operação
+"POINT (-38.9728513 -12.1994842)",AP LABOFIS - 03,Ponto de Acesso,Indoor,Em operação
+"POINT (-38.9736006 -12.1997103)",AP LABEXA - 02,Ponto de Acesso,Indoor,Em operação
+"POINT (-38.9738956 -12.1997837)",AP LABEXA - 03,Ponto de Acesso,Indoor,Em operação
+"POINT (-38.9719162 -12.1989511)",AP LConcreto,Ponto de Acesso,Outdoor,Em operação
+"POINT (-38.9739888 -12.1994387)",LAPRON,Ponto de Acesso,indoor,Em operação
+"POINT (-38.9745521 -12.1995855)",Clinica Nova UEFS,Ponto de Acesso,Indoor,Em operação
+"POINT (-38.9747183 -12.1999316)",AP CION - 02,Ponto de Acesso,Indoor,Em operação
+"POINT (-38.9744126 -12.1999211)",AP CION - 03,Ponto de Acesso,Indoor,Em operação
+"POINT (-38.975067 -12.2001623)",AP - PGSAUCOL - 02,Ponto de Acesso,Indoor,Em operação
+"POINT (-38.9751218 -12.2000395)",AP - PGSAUCOL - 03,Ponto de Acesso,Indoor,Em operação
+"POINT (-38.9680815 -12.1963648)",AP EEA,Ponto de Acesso,Indoor,Em operação
+"POINT (-38.969959 -12.2028263)",AP - Patrimônio,Ponto de Acesso,Indoor,Em operação
+"POINT (-38.9702782 -12.1970078)",AP - Parque Esportivo2,Ponto de Acesso,Outdoor,Em operação
+"POINT (-38.9704914 -12.199662)",AP MP2 - 2,Ponto de Acesso,Indoor,Em operação
